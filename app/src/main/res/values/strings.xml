@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">FirstApp</string>
     <string name="hi_michael">Hi, Michael!</string>
+    <string name="button">Do something</string>
 </resources>
